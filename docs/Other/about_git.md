@@ -83,6 +83,3 @@ site
 !pics/*.png
 ```
 
-!!! tip "你可能需要：[适用于 Vivado 工程的 .gitignore](https://support.xilinx.com/s/article/61232?language=en_US)。"
-
-以上内容只是 `git` 使用的最基本指令，你还可以学习使用 `git` 管理工程的工作流(比如 [bilibili 视频](https://www.bilibili.com/video/BV19e4y1q7JJ)。如果遇到问题，可以查看 `git` 文档或 `git --help` 查看帮助。

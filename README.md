@@ -1,10 +1,10 @@
-# ZJU-Digital Logic Design Lab 2025
+# Python 2025
 
-本仓库用来发布《数字逻辑设计》课程实验文档，你可以直接查看[在线文档](https://guahao31.github.io/2025_DD)，或将本仓库拉至本地部署。在校园网环境下，你也可以访问 ZJU Git Pages 上部署的[实验文档](http://3200105455.pages.zjusct.io/2025_dd)以及 ZJU Git 中的[仓库](https://git.zju.edu.cn/3200105455/2025_dd)。
+本仓库用来发布2025年春夏上机课程文档，你可以直接查看[在线文档]([2025_DD](https://blog.thorin215-wang.com/2025_Python/))，或将本仓库拉至本地部署。
 
-本文档面向对象为 2024-2025 春夏学期《数字逻辑设计》**蔡铭老师**班。
+本文档面向对象为 2025-2026 秋冬学期《Python程序设计》**沈钦仙老师**班和**孟炳泉老师**班。
 
-本文档的实验工具介绍，实验部分内容和思考题借鉴了《计算机系统》系列课程的实验文档，你可以在他们的 [ZJU git 主页](https://git.zju.edu.cn/zju-sys)上查看相关内容，非常感谢《计算机系统》课程老师与历届助教在课程建设上的努力！
+> 非常欢迎同学向本仓库提交自己的笔记！
 
 ## 如何在本地构建？
 
@@ -32,16 +32,14 @@ $ pip install mkdocs-heti-plugin
 
 ```bash
 # 拉取仓库，两者皆可
-$ git clone git@github.com:Guahao31/2025_DD.git
-$ git clone https://github.com/Guahao31/2025_DD.git
+$ git clone git@github.com:Thorin215/2025_Python.git
+$ git clone https://github.com/Thorin215/2025_Python.git
 # 构建
 $ cd ./2025_DD
 $ mkdocs serve
 ```
 
 如果你使用本地部署查看文档，请在每次使用前查看并拉取远程仓库的 `main` 分支更新 `git pull`。
-
-请注意，如果你使用本地构建，**需要自行保证使用的是最新版本的实验指导，因为未及时得知版本更新造成的后果自行承担**。
 
 ## 如何提建议
 
@@ -53,6 +51,6 @@ $ mkdocs serve
 * 发现文本中的错别字/格式错误/图片缺失
 * 对文档有建议
 
-欢迎提交 Issue/PR 或通过邮箱与我沟通，我的邮箱为 guahao@zju.edu.cn 。
+欢迎提交 Issue/PR 或通过邮箱与我沟通，我的邮箱为 zjuheadmaster@zju.edu.cn 。
 
 非常期待得到你的反馈！
